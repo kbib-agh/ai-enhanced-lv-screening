@@ -1,0 +1,15 @@
+django
+django-pandas
+matplotlib
+nibabel
+numpy
+opencv-python
+openpyxl
+optuna
+pandas
+psycopg
+scikit-learn
+scipy
+seaborn
+shap
+tqdm
